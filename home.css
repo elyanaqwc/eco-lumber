@@ -173,9 +173,7 @@ margin-bottom: 20px;
         box-shadow: 14px 14px 2px #243D29;
     }
     
-    .box:last-child {
-        margin-right: 50px; /* Remove margin from the last box */
-    }
+
     
     .boxtext{
         padding-left: 7px;
