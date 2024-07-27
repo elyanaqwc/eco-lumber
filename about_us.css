@@ -486,7 +486,7 @@ padding-bottom: 2px;}
     justify-content: center; /* Use space-around if you want to distribute space around the items */
     align-items: center;
     height: 400px; /* Increased height to accommodate larger images */
-    width: 100%;
+   
     margin: 0 auto;
     padding-top: 20px;
     box-sizing: border-box;
@@ -522,21 +522,14 @@ padding-bottom: 2px;}
 
 
 
-@media (max-width: 1024px) {
-    .containerr {
-        margin-bottom: 0px;
-    }
 
-
-}
 
 @media (max-width: 1024px) {
     .containerr {
         display: flex;
         flex-wrap: wrap;
         justify-content: center; /* Center the items horizontally */
-        margin-bottom: 100px; /* Adjust spacing as needed */
-        margin: 0 auto;
+        margin-bottom: 60px; /* Adjust spacing as needed */
     }
 
     .box {
