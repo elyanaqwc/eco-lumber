@@ -240,6 +240,7 @@ color: #001f06;
             flex-direction: column; /* Display boxes in a column */
             height: auto; /* Adjust height as needed */
             padding: 20px; /* Add padding for spacing */
+             overflow-x: hidden; /* Prevent horizontal overflow */
         }
     
         .box {
@@ -254,6 +255,7 @@ color: #001f06;
             
             height: auto; /* Adjust height as needed */
             padding: 20px; /* Add padding for spacing */
+             overflow-x: hidden; /* Prevent horizontal overflow */
         }
     
         .boxtext h5 {
