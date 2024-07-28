@@ -116,6 +116,12 @@
   }
 
   @media (max-width: 768px) {
+          .home-header{
+       
+        margin-bottom: 60px;
+    
+    
+    }
     .row {
         width: 90%; /* Adjust width to 90% */
         margin: 0 auto; /* Center the row horizontally */
